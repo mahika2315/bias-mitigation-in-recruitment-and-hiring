@@ -31,6 +31,11 @@ Then, install the required libraries:
 pip install -r requirements.txt
 ```
 
+Create a `.env` file and add your API key:
+```sh
+GROQ_API_KEY="yourapikey"' > .env
+```
+
 ### 3️⃣ Run the Streamlit App
 ```sh
 streamlit run biasmitigation.py

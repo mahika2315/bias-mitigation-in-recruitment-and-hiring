@@ -6,7 +6,7 @@ The **Recruitment Bias Mitigation Tool** is a **Streamlit-based application** th
 ## ✨ Features
 - 📊 **Upload a recruitment dataset** (CSV format)
 - 🎯 **Select target and sensitive attributes** for bias analysis
-- 🏆 **Evaluate bias metrics** (Demographic Parity Difference, Equalized Odds Difference)
+- 🏆 **Evaluate bias metrics** (such as Demographic Parity Difference, Equalized Odds Difference)
 - 🏗️ **Apply bias mitigation** using Fairlearn
 - 📈 **Visualizations**: Confusion Matrix and ROC Curve
 - 💾 **Download results** after analysis and mitigation
